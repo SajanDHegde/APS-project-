@@ -1,8 +1,8 @@
 # Sales Demand Forecasting & Statistical Model Evaluation
 
 ## Applied Probability and Statistics (AME 5102) — Master's Degree Assignment
-**Student Name:** Rohan Doggalli  
-**Registration Number:** `261100670012`  
+**Student Name:** Sajan D Hegde
+**Registration Number:** `261100670021`  
 **Degree Program:** Master of Engineering (M.E.) in Big Data Analytics  
 **Institution:** Manipal School of Information Sciences (MSIS), Manipal Academy of Higher Education (MAHE), Manipal  
 **Investigation Domain:** Retail Sales Demand Forecasting & Inferential Machine Learning Model Evaluation  
